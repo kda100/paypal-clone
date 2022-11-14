@@ -1,0 +1,39 @@
+.banner4-background {
+    background-color: #f5f7fa;
+}
+
+.banner4 {
+    margin: auto;
+    max-width: 1200px;
+    padding: 24px 40px 24px 40px;
+}
+
+.banner4 h2 {
+    font-size: 2.5rem;
+    width: 300px;
+    color: #4a4a4a;
+}
+
+.banner4 p {
+    width: 500px;
+}
+
+.banner4 a {
+    text-decoration: none;
+    color: #0070ba;
+    font-weight: 700;
+    display: block;
+}
+
+.banner4 .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+.banner4 .text {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-left: 30px;
+}

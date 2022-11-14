@@ -1,0 +1,39 @@
+.banner3-background {
+    background-color: white;
+}
+
+.banner3 {
+    margin: auto;
+    max-width: 1200px;
+    padding: 24px 40px 24px 40px;
+}
+
+.banner3 h2 {
+    font-size: 2.5rem;
+    width: 300px;
+    color: #4a4a4a;
+}
+
+.banner3 p {
+    width: 500px;
+}
+
+.banner3 a {
+    text-decoration: none;
+    color: #0070ba;
+    font-weight: 700;
+    display: block;
+}
+
+.banner3 .row {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+.banner3 .text {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    margin-right: 20px;
+}
